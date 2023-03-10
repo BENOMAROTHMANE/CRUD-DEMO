@@ -1,0 +1,7 @@
+com\demo\demo\DemoApplication.class
+com\demo\demo\controller\DemoController.class
+com\demo\demo\mapper\DemoMapperImpl.class
+com\demo\demo\repository\DemoRepository.class
+com\demo\demo\mapper\DemoMapper.class
+com\demo\demo\entities\Demo.class
+com\demo\demo\dto\DemoDto.class
